@@ -1,5 +1,5 @@
 # LightBnB
-
+LightBnB Project that utilizes server-side javascript to create a simple yet multifunctional AirBnB clone.
 ## Project Structure
 
 ```
